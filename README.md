@@ -1,16 +1,17 @@
-### Hi there 👋
+# 💫 About Me:
+Hi, I'm Qui Le
 
-<!--
-**anh3112003qui/anh3112003qui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 GitHub Stats:
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anh3112003qui&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=anh3112003qui&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+---
+[![](https://visitcount.itsvg.in/api?id=anh3112003qui&icon=5&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
